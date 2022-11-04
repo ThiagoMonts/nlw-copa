@@ -105,6 +105,10 @@ header {
     justify-content: space-between;
 }
 
+.card ul li img {
+  width: 50px;
+}
+
 .card ul li + li { /*Esse + indica que tenha um item anterior a ele*/
     padding-top: 24px;
     border-top: 1px solid #323238;
