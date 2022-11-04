@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Copa </h1>
+<h1 align="center"> Calendário Copa do Mundo Qatar 2022 </h1>
 
 <p align="center">
 Projeto desenvolvido no evento promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -14,7 +14,7 @@ Projeto desenvolvido no evento promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="calendário copa" src=".github/project.png" width="100%">
+  <img alt="calendário copa" src=".github/calendario.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário Copa é um projeto que apresenta o calendário da Copa do Mundo do Qatar 2022.
+O NLW Copa é um projeto que apresenta o calendário da Copa do Mundo do Qatar 2022.
 
 ## 🔖 Layout
 
